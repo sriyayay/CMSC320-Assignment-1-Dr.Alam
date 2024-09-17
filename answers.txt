@@ -9,3 +9,7 @@ Answer: Data science is very important for banks, as they have a large amount of
 Q3: What is the difference between merging and rebasing?
 
 Answer: Merge ties together another branch with the current branch that you are on. So we take the merging branch and combine it with our main one. Rebasing will move the merging branch onto the end of the main branch. This will make also make your project history more linear, as there will be no branches moving in and out from the main branch.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to get better at cleaning data, as this is something that I have always had issues and trouble with. I am also looking forward to learning SQL.
